@@ -431,6 +431,6 @@ $RECYCLE.BIN/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-bin
-obj
+*bin
+*obj
 .vscode
